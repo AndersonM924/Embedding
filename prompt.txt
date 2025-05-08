@@ -1,0 +1,52 @@
+Prompt para Análisis de Candidatos: Ingeniero de Desarrollo para Bases de Datos
+
+Perfil ideal para el puesto de Ingeniero de Desarrollo para Bases de Datos en una empresa proveedora de ERP en Bogotá, Colombia. El candidato debe cumplir con los siguientes requisitos, con prioridad en los marcados como cruciales o altamente valorados.
+
+Requisitos Técnicos (Cruciales):
+
+Experiencia de al menos 5 años diseñando, optimizando y manteniendo bases de datos relacionales, con mínimo 3 años trabajando directamente con SQL Server (2016 o superior) o PostgreSQL. Debe haber gestionado grandes volúmenes de datos en proyectos reales, preferiblemente en empresas medianas o grandes en Colombia.
+
+Amplia experiencia en la creación, optimización y mantenimiento de procedimientos almacenados, triggers y funciones personalizadas para resolver problemas complejos de negocio, como la automatización de procesos en ERPs.
+
+Familiaridad con sistemas ERP como Stone, Oracle, SAP, Microsoft Dynamics, o Sistemas Uno. Capacidad para integrar bases de datos con procesos de negocio, asegurando eficiencia y escalabilidad.
+
+Habilidad para optimizar consultas SQL complejas en entornos de alta carga, gestionar backups, restauraciones, y estrategias de seguridad de datos, incluyendo configuraciones de alta disponibilidad.
+
+Capacidad para documentar requerimientos, procesos y flujos de datos de manera clara y precisa.
+
+Conocimiento del sector salud (Altamente Valorado): Al menos 2 años de experiencia trabajando con datos en el sector salud, idealmente con empresas como Emergencia Médica o Cohan, gestionando procesos de negocio como gestión de pacientes, facturación, o inventarios.
+
+Formación Académica (Muy Importante):
+
+Grado en Ingeniería de Sistemas, Ingeniería Informática, o carreras afines de una universidad reconocida.
+
+Egresados de universidades TOP 5 en Colombia, como Universidad de los Andes, Pontificia Universidad Javeriana, Universidad Industrial de Santander (UIS), Universidad Nacional de Colombia, o Universidad de Antioquia (Altamente Valorado).
+
+Certificaciones en SQL Server, PostgreSQL, o ERPs (como Oracle, SAP) son un plus.
+
+Habilidades Blandas y Actitud (Cruciales):
+
+Persona dinámica y proactiva, con iniciativa para identificar problemas, proponer mejoras y liderar soluciones innovadoras.
+
+Alta capacidad analítica para comprender procesos de negocio complejos y diseñar soluciones basadas en datos.
+
+Excelentes habilidades interpersonales, con enfoque en la colaboración con clientes y equipos internos, y capacidad para construir relaciones sólidas.
+
+Habilidad para trabajar en equipo, comunicando ideas de manera efectiva.
+
+Motivación por aprender continuamente, adaptarse a nuevas tecnologías, y mejorar procesos.
+
+Experiencia y Nivel (Muy Importante):
+
+
+Nivel semi-senior con experiencia sólida (5+ años en bases de datos, 3+ años en SQL Server/PostgreSQL). Debe haber liderado o participado activamente en proyectos de bases de datos en empresas medianas o grandes, con enfoque en procesos de negocio.
+
+Experiencia trabajando con datos de empresas robustas en Colombia, con comprensión de procesos de negocio en entornos ERP, preferiblemente en el sector salud.
+
+Requisitos Adicionales:
+
+Disponibilidad para trabajar presencialmente en Bogotá, Colombia (Crucial). No se consideran candidatos que busquen trabajo remoto o híbrido.
+
+Aspiración salarial alineada con el presupuesto de COP 3,500,000 a COP 4,500,000, negociable según experiencia.
+
+Conocimiento de inglés técnico (nivel intermedio o superior) es un plus.
