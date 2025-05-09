@@ -22,20 +22,16 @@ def parse_args():
     return parser.parse_args()
 
 def main():
-    args = parse_args()
 
-    # 1. Obtener el texto de la línea de comandos
-    texto = args.texto
-
-    # 2. Generar el vector de embedding
+    texto = "Ciudad donde es carlos galan"
     vector = generar_embedding(texto)
     print(f"Embedding generado (longitud {len(vector)})")
 
     # 3. Actualizar el registro en Supabase
     client = obtener_client()
-    tabla = "job_position"
-    campo_vector = "job_position_vector"
-    record_id = args.id
+    tabla = "city"
+    campo_vector = "embedding"
+    record_id = "71f46529-1a34-459a-90e5-52b885c50b4d"
 
     try:
         actualizar_embedding(client, tabla, campo_vector, record_id, vector)
